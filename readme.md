@@ -1,4 +1,4 @@
-# Mihoyo sign in
+#
 
 ![badge](https://github.com/jianggaocheng/mihoyo-signin/workflows/Mihoyo%20SignIn/badge.svg)
 
